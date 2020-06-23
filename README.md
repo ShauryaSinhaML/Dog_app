@@ -1,5 +1,9 @@
 # Dog_app
 
+# Files:
+- <b>project_blog.pages :</b> Contains A Blog Post abt the project
+- <b> dog_app (1).ipyb :</b> Contains the code for this project
+  
 ## Problem Statement¶
 
 Given an image of a dog, our algorithm should identify an estimate of the canine’s breed. If supplied an image of a human, the code should identify the resembling dog breed.
